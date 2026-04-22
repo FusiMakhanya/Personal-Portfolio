@@ -16,7 +16,7 @@ I'm a software developer passionate about building clean, user-friendly applicat
 
 ## Tech Stack
 - Languages: JavaScript, C#, HTML, CSS
-- Frameworks: React, Node.js, Flask
+- Frameworks: React, Node.js,
 - Tools: Git
 
 ## Contact
