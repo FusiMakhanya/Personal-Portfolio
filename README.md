@@ -10,12 +10,12 @@ I'm a software developer passionate about building clean, user-friendly applicat
 
 ## Projects
 - **Interactive Dashboard** (Front-End Focus).
-- **Portfolio Website** – Built with React and TailwindCSS.
+- **Prsonal Portfolio Website** – Built with React and TailwindCSS.
 - **REST + GraphQL API** (Backend/API Focus).
 - **Developer Productivity Tool** (Tooling/DevOps Focus).
 
 ## Tech Stack
-- Languages: JavaScript, C#, HTML, CSS
+- Languages: JavaScript, C#, HTML, CSS, Tailwind
 - Frameworks: React, Node.js
 - Tools: Git
 
