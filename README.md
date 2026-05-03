@@ -9,10 +9,10 @@ I'm a software developer passionate about building clean, user-friendly applicat
 - 🎨 Interested in UI/UX design and creative coding
 
 ## Projects
-- **Interactive Dashboard** (Front-End Focus).
-- **Prsonal Portfolio Website** – Built with React and TailwindCSS.
-- **REST + GraphQL API** (Backend/API Focus).
-- **Developer Productivity Tool** (Tooling/DevOps Focus).
+- **Interactive Dashboard** (Front-End Focus)
+- **Prsonal Portfolio Website** – Built with React and TailwindCSS
+- **REST + GraphQL API** (Backend/API Focus)
+- **Developer Productivity Tool** (Tooling/DevOps Focus)
 
 ## Tech Stack
 - Languages: JavaScript, C#, HTML, CSS, Tailwind
