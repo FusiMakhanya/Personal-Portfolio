@@ -10,7 +10,7 @@ I'm a software developer passionate about building clean, user-friendly applicat
 
 ## Projects
 - **Interactive Dashboard** (Front-End Focus)
-- **Prsonal Portfolio Website** – Built with React and TailwindCSS
+- **Personal Portfolio Website** – Built with React and TailwindCSS
 - **REST + GraphQL API** (Backend/API Focus)
 - **Developer Productivity Tool** (Tooling/DevOps Focus)
 
