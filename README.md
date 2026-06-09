@@ -15,7 +15,7 @@ I'm a software developer passionate about building clean, user-friendly applicat
 - **Developer Productivity Tool** (Tooling/DevOps Focus)
 
 ## Tech Stack
-- Languages: JavaScript, C#, HTML, CSS, Tailwind
+- Languages: JavaScript, C#, HTML, CSS, Tailwind, Bootstrap
 - Frameworks: React, Node.js
 - Tools: Git
 
